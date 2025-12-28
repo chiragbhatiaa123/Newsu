@@ -1,0 +1,9 @@
+{
+  "title": "This is a Test Headline to Verify the Layout and Font Rendering of the News Bot Template",
+  "source": "TestNews",
+  "date": "Dec 23, 2025",
+  "image_url": "https://dummyimage.com/1080x1350/444444/ffffff&text=Test+Image",
+  "summary": "Test Source • Just Now • Layout Verification",
+  "generated_image": "post.png",
+  "last_updated": "2025-12-24T00:36:29.351911"
+}

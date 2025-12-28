@@ -1,0 +1,75 @@
+{
+    "canvas": {
+        "width": 1080,
+        "height": 1350,
+        "bg_color": [
+            20,
+            20,
+            20
+        ]
+    },
+    "fonts": {
+        "headline_path": "assets/Poppins-Bold.ttf",
+        "summary_path": "arial.ttf",
+        "headline_size_start": 55,
+        "headline_size_min": 40,
+        "summary_size": 35
+    },
+    "colors": {
+        "text_headline_box": [
+            0,
+            0,
+            0
+        ],
+        "text_headline_body": [
+            255,
+            255,
+            255
+        ],
+        "text_summary": [
+            200,
+            200,
+            200
+        ],
+        "accent_default": [
+            0,
+            120,
+            215
+        ]
+    },
+    "layout": {
+        "padding_x": 15,
+        "padding_y": 10,
+        "element_spacing_y": 8,
+        "headline_summary_gap": 60,
+        "footer_margin_bottom": 120,
+        "box_height_offset": 1,
+        "safe_zone_margin": 50
+    },
+    "gradient": {
+        "height_ratio": 0.85,
+        "max_alpha": 255,
+        "start_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "subheading": {
+        "font_path": "arial.ttf",
+        "font_size": 35,
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "margin_bottom": 120,
+        "margin_x": 2
+    },
+    "logo": {
+        "path": "C:\\Users\\bhati\\Downloads\\Congratulations (3).png",
+        "target_width": 150,
+        "margin_top": 40,
+        "margin_left": 40
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Manual Override Test: Custom Image & Color",
+  "source": "Manual Test",
+  "date": "Now",
+  "image_url": "manual_upload",
+  "summary": "This image should have a RED highlight box because I forced it.",
+  "generated_image": "post.png",
+  "last_updated": "2025-12-24T10:47:45.615844"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "MMMMM WWWWW Wide Characters Stress Test to Verify Absolute Safety Zones With Pixel Measurement",
+  "source": "Manual Test",
+  "date": "Now",
+  "image_url": "manual_upload",
+  "summary": "This headline contains many wide letters (M, W) which often break simple estimation heuristics.",
+  "generated_image": "post.png",
+  "last_updated": "2025-12-24T11:12:49.888599"
+}
